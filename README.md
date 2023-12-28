@@ -25,8 +25,8 @@ Create a simple webpage consisting of a static qr code component with some texts
 
 ### Links
 
-- Solution URL: [Github](https://github.com/tmy-ide/qr-code-component.git)
-- Live Site URL: [Github](https://tmy-ide.github.io/qr-code-component/)
+- Solution URL: [Solution](https://github.com/tmy-ide/qr-code-component.git)
+- Live Site URL: [Preview](https://tmy-ide.github.io/qr-code-component/)
 
 ## My process
 
