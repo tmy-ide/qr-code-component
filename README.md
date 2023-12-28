@@ -62,5 +62,5 @@ Even though this is a simple project, I know that in future projects it will bec
 
 ## Author
 
-- Frontend Mentor - [@ytmy-ide](https://www.frontendmentor.io/profile/tmy-ide)
+- Frontend Mentor - [@tmy-ide](https://www.frontendmentor.io/profile/tmy-ide)
 
