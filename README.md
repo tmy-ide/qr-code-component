@@ -33,7 +33,7 @@ Create a simple webpage consisting of a static qr code component with some texts
 - Analyze the reference/brainstorm 
 - Start with markup with HTML5
 - Create all styles with CSS
-- Touch up/delete any unnecessary codes
+- Touch up/remove any redundant codes
 
 ### Built with
 
