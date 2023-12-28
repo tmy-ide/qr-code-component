@@ -25,8 +25,8 @@ Create a simple webpage consisting of a static qr code component with some texts
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/tmy-ide/qr-code-component.git)
+- Live Site URL: [Github](https://tmy-ide.github.io/qr-code-component/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Create a simple webpage consisting of a static qr code component with some texts
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Google APIs](https://fonts.googleapis.com/css?family=Outfit) - For fonts
+- [Google Fonts](https://fonts.googleapis.com/css?family=Outfit) - For fonts
 
 ### What I learned
 
@@ -62,8 +62,5 @@ Even though this is a simple project, I know that in future projects it will bec
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@ytmy-ide](https://www.frontendmentor.io/profile/tmy-ide)
 
